@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @Jaqueline107
+- 👀Sou Estudante do programação 
+- 🌱 I’m currently learning  PHP, hmtl,css
+- 
+- 💞️ I’m looking to collaborate socialmente   
+- 📫 How to reach me ...
